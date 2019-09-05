@@ -10,13 +10,13 @@ Find the latest version of the Google Guava library and add it to the sample app
 
 Modify the URLRepositoryInMemoryTest in the sample app to add code to set up several URLs in a URLRepositoryInMemory object. Create at least one test method that uses the URLRepositoryInMemory object. When you are done, submit your URLRepositoryInMemoryTest.
 
-# Create a White Box Test for the Provided Code
-
-Modify the IDEncodingSystemBase62BlackBoxTest in the sample app to add at least two test methods that demonstrate black box testing of the IDEncodingSystemBase62. Your test methods should use internal knowledge of the implementation in choosing the values / structure of the tests. Please make sure and add comments explaining what internal knowledge is used to design the tests. When you are done, submit the IDEncodingSystemBase62BlackBoxTest.
-
 # Create a Black Box Test for the Provided Code
 
 Modify the IDEncodingSystemBase62WhiteBoxTest in the sample app to add at least two test methods that test the IDEncodingSystemBase62 using only the information that is available in the IDEncodingSystem interface. When you are done, submit the IDEncodingSystemBase62WhiteBoxTest.
+
+# Create a White Box Test for the Provided Code
+
+Modify the IDEncodingSystemBase62BlackBoxTest in the sample app to add at least two test methods that demonstrate white box testing of the IDEncodingSystemBase62. Your test methods should use internal knowledge of the implementation in choosing the values / structure of the tests. Please make sure and add comments explaining what internal knowledge is used to design the tests. When you are done, submit the IDEncodingSystemBase62BlackBoxTest.
 
 # Integrate Performance Metrics Into an Application
 
