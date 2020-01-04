@@ -1,6 +1,6 @@
 # Clone and Create Your Own Copy of the Provided Git Repository
 
-Clone this Git repository and add your name to the top of the README.md file. After cloning this repository, import the sample-app underneath the code folder into Eclipse. When you are done, submit the contents of your README.md file. 
+Clone this Git repository and add your name to the top of either this or the root README.md file in the repository (either one is fine). After cloning this repository, import the sample-app underneath the code folder into Eclipse. When you are done, submit the contents of your README.md file. 
 
 # Add Dependencies to a Gradle Build
 
